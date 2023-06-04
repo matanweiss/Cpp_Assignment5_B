@@ -1,9 +1,9 @@
 #pragma once
 #include "Node.hpp"
 
-#define ASCENDING 1
-#define CROSS 2
-#define PRIME 3
+constexpr int ASCENDING = 1;
+constexpr int CROSS = 2;
+constexpr int PRIME = 3;
 
 namespace ariel
 {
